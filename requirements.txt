@@ -1,0 +1,12 @@
+transformers==4.51.3
+accelerate==1.6.0
+langchain==0.3.25
+chromadb==1.0.9
+langchain-community==0.3.24
+tiktoken==0.9.0
+python-dotenv==1.1.0
+langchain_ollama==0.3.2
+streamlit==1.45.1
+streamlit_chat==0.1.1
+torch==2.7.0
+sentence-transformers==4.1.0
